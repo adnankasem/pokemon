@@ -10,7 +10,7 @@ Live demo here: https://pokemon-graphql.netlify.app/
 
 HTML
 CSS
-Javascrip
+Javascript
 React
 GraphQL
 
