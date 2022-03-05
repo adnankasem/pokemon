@@ -1,3 +1,35 @@
+# Pokemon Web App
+
+## General Information
+
+This Pokemon app calls the Poke Api using GraphQL and returns Pokemon data in the form of Pokemon cards. Each card shows the Pokemon's name, it's power levels as well as the attacks it has in it's arsenal. Currently I have hard coded a set amount of Pokemon to be returned but plan to add pagination and greatly increase the number of Pokemons.
+
+Live demo here: https://pokemon-graphql.netlify.app/
+
+## Technologies Used
+
+HTML
+CSS
+Javascrip
+React
+GraphQL
+
+## Features
+- Queries GraphQL Poke Api and returns Pokemon data.
+- Responsive design that looks great on all screen sizes
+
+## Project Status
+Project is: _in progress_ 
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
